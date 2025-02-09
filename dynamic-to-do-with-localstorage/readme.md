@@ -26,6 +26,6 @@ A simple **To-Do List** application built with **HTML, CSS, and JavaScript** tha
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/Swapvp/JS-Projects/Dynamic To-do With Localstorage.git
-cd Dynamic-To-Do-List
+git clone https://github.com/Swapvp/JS-Projects/tree/main/dynamic-to-do-with-localstorage
+cd dynamic-to-do-with-localstorage
 ```
