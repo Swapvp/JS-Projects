@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+#search {
+    width: 300px;
+    padding: 8px;
+    font-size: 16px;
+}
+#results {
+    border: 1px solid #ddd;
+    max-width: 300px;
+    text-align: center;
+    margin: 10px auto;
+    background-color: azure;
+
+}
+.result-item {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+.result-item:last-child {
+    border-bottom: none;
+}
